@@ -89,3 +89,7 @@ mongoose
     Post.insertMany(posts);  */
   })
   .catch((error) => console.log(`${error.message} happened`));
+
+
+
+export default app;
